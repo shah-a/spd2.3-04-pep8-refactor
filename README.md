@@ -1,5 +1,7 @@
 # Refactoring Lab: PEP 8 (Style Guide for Python)
 
+Exercise from [SPD 2.3 syllabus](https://github.com/Tech-at-DU/ACS-4931-Testing-and-Architecture/tree/master/exercises/pep8-refactor)
+
 In this series of exercises, we learn how to refactor code for better readability according to PEP 8 guidelines.
 
 ## TODO
