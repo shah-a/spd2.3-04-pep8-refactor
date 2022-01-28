@@ -5,6 +5,7 @@ class Pizza:
     """Pizza class."""
 
     def __init__(self, bread_type, cheese_type, meat_type, toppings, size):
+        """Initialize pizza."""
         self.bread_type = bread_type
         self.cheese_type = cheese_type
         self.meat_type = meat_type
